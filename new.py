@@ -1,0 +1,5 @@
+name=str(input("Enter your name : "))
+num=int(input("Enter your number : "))
+print("")
+print(name)
+print(num)
